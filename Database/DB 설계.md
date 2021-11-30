@@ -4,8 +4,8 @@
 ---
 ![](./img/D설_1.PNG)
 
-![](./img/D설_1.JPG)
+![](./img/D설_1.jpg)
 
 ![](./img/D설_2.PNG)
 
-![](./img/D설_2.JPG)
+![](./img/D설_2.jpg)
